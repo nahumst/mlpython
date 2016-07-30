@@ -1,0 +1,15 @@
+VISTA,TEMPERATURA,HUMEDAD,VIENTO,JUGAR
+Soleado,Alta,Alta,Debil,No
+Soleado,Alta,Alta,Fuerte,No
+Nublado,Alta,Alta,Debil,Si
+Lluvioso,Media,Alta,Debil,Si
+Lluvioso,Baja,Normal,Debil,Si
+Lluvioso,Baja,Normal,Fuerte,No
+Nublado,Baja,Normal,Fuerte,Si
+Soleado,Media,Alta,Debil,No
+Soleado,Baja,Normal,Debil,Si
+Lluvioso,Media,Normal,Debil,Si
+Soleado,Media,Normal,Fuerte,Si
+Nublado,Media,Alta,Fuerte,Si
+Nublado,Alta,Normal,Debil,Si
+Lluvioso,Media,Alta,Fuerte,No
