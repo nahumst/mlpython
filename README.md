@@ -1,2 +1,2 @@
 # mlpython
-Ejemplos de algoritmos de aprendizaje automático en python
+Algoritmos de aprendizaje automático en python
