@@ -77,6 +77,3 @@ knn_2.fit(X_train, y_train)
 predictions = knn_2.predict(X_test)
 print 'Sklearn Knn  {predict} % accuracy'.format(predict = accuracy_score(y_test, predictions))
 
-
-
-
